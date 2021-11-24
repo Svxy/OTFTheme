@@ -104,7 +104,7 @@
     Big User Popout
   */
   --big-user-popout-background-image: var(--theme-background-image);
-  --big-user-popout-background-transparency: rgba(247, 19, 2, 0.6);
+  --big-user-popout-background-transparency: rgba(0,0,0,0.65);
   --big-user-popout-background-image-position: center;
 
   /*
