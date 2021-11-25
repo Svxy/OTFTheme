@@ -17,7 +17,7 @@ After that, go to your settings and find "Plugins" in the betterdiscord category
 [XenoLib](https://github.com/Svxy/My-Favorite-Plugins/blob/main/Cutieys%20Favorite%20Plugins/Plugins/1XenoLib.plugin.js),
 and [ZeresPluginLibrary](https://github.com/Svxy/My-Favorite-Plugins/tree/main/Cutieys%20Favorite%20Plugins/Plugins).
 
-Next after you've enabled those and whichever other plugins you want, click on the "Custom CSS" tab and paste the code from [my css](https://github.com/Svxy/CutieysOTFTheme/blob/main/OTFThemeV3.2.css)
+Next after you've enabled those and whichever other plugins you want, click on the "Custom CSS" tab and paste the code from [my CSS](https://github.com/Svxy/CutieysOTFTheme/blob/main/OTFThemeV3.2.css).
 
 ### Enjoy! :)
 
