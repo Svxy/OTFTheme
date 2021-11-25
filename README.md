@@ -21,8 +21,9 @@ Next after you've enabled those and whichever other plugins you want, click on t
 
 ### Enjoy! :)
 
+btw if u want u can change the colors n png's :p 
 
-Showcase:
+# Showcase:
 
 ![Showcase1](https://github.com/Svxy/CutieysOTFTheme/blob/main/theme%20showcase/showcase1.png?raw=true)
 
